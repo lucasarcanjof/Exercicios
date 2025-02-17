@@ -1,2 +1,2 @@
-# Exercicios
-Exercícios prova dia 21/12
+# Exercises
+Exercises test on 12/21
